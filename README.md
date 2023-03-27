@@ -1,5 +1,5 @@
 # A Second Opinion Docker Devbox
-## LAMP stack built with Docker Compose
+## Built with Docker Compose
 
 ## Installation
 
