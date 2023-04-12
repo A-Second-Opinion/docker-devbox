@@ -37,7 +37,7 @@ docker-compose exec webserver bash
 Run this in webserver.
 ```shell
 cd /var/www/apps/street2fleet
-cp .env.local .env
+cp docker.env .env
 composer update
 php artisan migrate
 php artisan db:seed
